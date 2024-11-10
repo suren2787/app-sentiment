@@ -50,3 +50,18 @@ with open(file_name_str, "w") as outfile:
     outfile.write(json_object)
 
 print("Summary file saved successfully")
+
+# save as html
+time_str = time.strftime("%Y%m%d-%H%M%S")
+file_name_str = "results/ps-Summary.html"
+backup_filename_str="results/ps-Summary-backup-"+time_str+".html"
+
+#check if file exists
+curr_file = Path(file_name_str)
+if curr_file.is_file():
+    os.rename(file_name_str,backup_filename_str)
+
+from json2html import *
+with open(file_name_str, "w", encoding="utf-8") as outfile:
+    outfile.write(json2html.convert(json = json_object))
+print("html file generated") 
