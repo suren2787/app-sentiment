@@ -1,0 +1,2838 @@
+[
+    {
+        "label": "POSITIVE",
+        "score": 0.9992863535881042
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9951997995376587
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9974466562271118
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.999815046787262
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9988017082214355
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9921272993087769
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9996817111968994
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9972954392433167
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.999854326248169
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9996232986450195
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9980351328849792
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9996867179870605
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9994922876358032
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9935989379882812
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.6174575686454773
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9977720379829407
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997383952140808
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997370839118958
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9255918860435486
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998434782028198
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.999870777130127
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9996984004974365
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9992769360542297
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997208714485168
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998682737350464
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9976397752761841
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9054213166236877
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9990149736404419
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997851252555847
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9996225833892822
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.999798595905304
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998753070831299
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9717139005661011
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9987905621528625
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.6970561146736145
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9989091157913208
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998434782028198
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.99910968542099
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998630285263062
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997746348381042
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998278617858887
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998682737350464
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998292922973633
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998464584350586
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9193418025970459
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9995704293251038
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9949457049369812
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9967567324638367
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9544276595115662
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998630285263062
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9539864659309387
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9979122281074524
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9932476282119751
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9941178560256958
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9996631145477295
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9994932413101196
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9977710247039795
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9993280172348022
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9993187189102173
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9995488524436951
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9962193369865417
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9988996982574463
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9995166063308716
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998282194137573
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997714161872864
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9619077444076538
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998799562454224
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9992114305496216
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998165965080261
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.999552309513092
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9977250695228577
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9996054768562317
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997588992118835
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9867169857025146
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9996918439865112
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9731366038322449
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9996188879013062
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9995836615562439
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9882643222808838
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9996269941329956
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.7513659000396729
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9994033575057983
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997755885124207
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9944637417793274
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9994932413101196
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9996817111968994
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9992796778678894
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9994137287139893
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9994378685951233
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9950560331344604
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.999774158000946
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9933366775512695
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997196793556213
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9985468983650208
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997658133506775
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.999506950378418
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9992103576660156
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9992058873176575
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9410822987556458
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9989774227142334
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9956220984458923
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9994460940361023
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9979802966117859
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9634347558021545
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9995490908622742
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9998086094856262
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9966806769371033
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9986714124679565
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9313318133354187
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9969732761383057
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9967652559280396
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9918973445892334
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9924843907356262
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9983419179916382
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9996211528778076
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9996695518493652
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9206576347351074
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9919298887252808
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997994303703308
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9984627962112427
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998630285263062
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.999360978603363
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997714161872864
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9967555403709412
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9998089671134949
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9655628204345703
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998434782028198
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998493194580078
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997527003288269
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9871707558631897
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997732043266296
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.984743595123291
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9587564468383789
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9991558790206909
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9964905381202698
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9996837377548218
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9995883107185364
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9888148903846741
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9627758264541626
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998332262039185
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9967195391654968
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9998053908348083
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9967064261436462
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9926186203956604
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9992678761482239
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9614598155021667
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997257590293884
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997313618659973
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997504353523254
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9886688590049744
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997976422309875
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9995806813240051
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998654127120972
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998792409896851
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9686506986618042
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998388290405273
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9977127313613892
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.956228494644165
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9746006727218628
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9995866417884827
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9361651539802551
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.999671459197998
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.6970561146736145
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.998279333114624
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9993699193000793
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.999798595905304
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9953367114067078
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9995803236961365
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9989776611328125
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9995471835136414
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9995923638343811
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9962165951728821
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9996254444122314
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997630715370178
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998559951782227
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9991990923881531
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9790964126586914
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9995777010917664
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9192644357681274
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.5404925346374512
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9850617051124573
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9952203631401062
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9790417551994324
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9983270764350891
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9530219435691833
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9917531609535217
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9994879961013794
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9990522265434265
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9990781545639038
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998576641082764
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9497137665748596
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9959332346916199
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9995107650756836
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997896552085876
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9989390969276428
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9664252400398254
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998520612716675
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997051358222961
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9996826648712158
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.6970561146736145
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9984105825424194
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9713988304138184
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9998082518577576
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997827410697937
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.999832034111023
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9990172386169434
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997581839561462
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9994421601295471
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998552799224854
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9998013377189636
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9994404911994934
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997599720954895
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9986093044281006
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.7086988091468811
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9988124370574951
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998446702957153
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9378772974014282
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9985296726226807
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9988542795181274
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998592138290405
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9983955025672913
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9977388381958008
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9998146891593933
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9995007514953613
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998145699501038
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9994888305664062
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998434782028198
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998505115509033
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998630285263062
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997150301933289
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.998293936252594
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9995502829551697
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9994603991508484
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9625778794288635
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9912455677986145
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9986672401428223
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9978585839271545
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997935891151428
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998493194580078
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9985144734382629
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998235106468201
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998688697814941
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9989494681358337
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998396635055542
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9987572431564331
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.997164785861969
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.7707151770591736
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998487234115601
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998152852058411
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9963753819465637
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.999862551689148
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9943867921829224
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997643828392029
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9931885004043579
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9995986819267273
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998061060905457
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9903151392936707
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9459691047668457
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998738765716553
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998434782028198
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.999875545501709
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997981190681458
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9462094902992249
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9994996786117554
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9991974234580994
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9996899366378784
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9996482133865356
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998548030853271
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9993207454681396
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9992341995239258
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9628587365150452
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9896695017814636
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9622616171836853
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998563528060913
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.996324360370636
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9978891015052795
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997918009757996
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998753070831299
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9988943934440613
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998061060905457
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9989790916442871
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998552799224854
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9543429017066956
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9981637597084045
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.995005190372467
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9987689852714539
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9751089811325073
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.5432024002075195
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998799562454224
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9971248507499695
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998434782028198
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9996482133865356
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998552799224854
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.999861478805542
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998434782028198
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998732805252075
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.987910270690918
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.999765932559967
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9729911088943481
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9996957778930664
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.999776303768158
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.999739944934845
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997608065605164
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9990647435188293
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9966855645179749
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998520612716675
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9996230602264404
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.997189462184906
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998359680175781
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9977721571922302
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998520612716675
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.999099850654602
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997212290763855
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997212290763855
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.997408926486969
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9988996982574463
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.999798595905304
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9892047047615051
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9995046854019165
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9996616840362549
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9995238780975342
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998615980148315
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998799562454224
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997379183769226
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9935178756713867
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9990529417991638
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998635053634644
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998552799224854
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997153878211975
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998629093170166
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998552799224854
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9991138577461243
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998520612716675
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.7486210465431213
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.987024188041687
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998352527618408
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9988445043563843
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9995601773262024
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9992250204086304
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9993632435798645
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9988445043563843
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9976102113723755
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998630285263062
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9979754090309143
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998579025268555
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9977661371231079
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.995564341545105
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998499155044556
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9994994401931763
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9991835951805115
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9927611351013184
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998377561569214
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9991925358772278
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998499155044556
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9938730001449585
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998520612716675
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.999875545501709
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998268485069275
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9988445043563843
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9971486926078796
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9992983341217041
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9981011748313904
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9993472695350647
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.6970561146736145
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9765200614929199
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998518228530884
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998512268066406
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9990530610084534
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998780488967896
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998676776885986
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.7868227362632751
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9989041090011597
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998520612716675
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998620748519897
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998681545257568
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9045960903167725
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998119473457336
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9994889497756958
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998455047607422
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9962624907493591
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9448012709617615
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997350573539734
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9689152836799622
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998493194580078
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9988445043563843
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998552799224854
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.999850869178772
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9984211921691895
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998550415039062
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998733997344971
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9011617302894592
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9161175489425659
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9988542795181274
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.8330617547035217
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998699426651001
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998562335968018
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9981902241706848
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9989363551139832
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9969877600669861
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998388290405273
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.999544084072113
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9963034391403198
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9996397495269775
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997891783714294
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998630285263062
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998520612716675
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998682737350464
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9942278861999512
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.6970561146736145
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.8749803304672241
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9807454347610474
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998394250869751
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9998226761817932
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998495578765869
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998563528060913
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9993911981582642
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.998783528804779
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998670816421509
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9993784427642822
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997941851615906
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998332262039185
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.989284336566925
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.8618302345275879
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.997892439365387
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998145699501038
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9934859871864319
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9958820343017578
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9995635151863098
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9993852376937866
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9978370070457458
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9857397675514221
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998682737350464
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998717308044434
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998563528060913
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9922682642936707
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998753070831299
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998332262039185
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9861803650856018
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9994961023330688
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998520612716675
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997938275337219
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9274058938026428
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997851252555847
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9972797632217407
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9990635514259338
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9775891900062561
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9994308352470398
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9980403780937195
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9415798187255859
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9991689920425415
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998588562011719
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998434782028198
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998552799224854
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.947838306427002
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.999607503414154
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9993553757667542
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998250603675842
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9995861649513245
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.8613937497138977
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9874520897865295
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.999140739440918
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9989494681358337
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9938468337059021
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9995203018188477
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9994526505470276
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9986771941184998
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.8144146203994751
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9986666440963745
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998434782028198
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9905602335929871
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.993520200252533
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9979440569877625
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9952823519706726
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.999860405921936
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9990255832672119
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.999805748462677
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9027782082557678
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.6970561146736145
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9163137078285217
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.989845871925354
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9937064051628113
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9877917170524597
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.891737163066864
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9995194673538208
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.6970561146736145
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998643398284912
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998061060905457
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.999859094619751
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9796839952468872
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997969269752502
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997523427009583
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998364448547363
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997954964637756
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.993665874004364
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998385906219482
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.932915449142456
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998592138290405
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9996902942657471
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9992855191230774
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9810209274291992
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997780919075012
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9977285265922546
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.999718964099884
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9992111921310425
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9858574867248535
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9742520451545715
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.5545576810836792
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9996280670166016
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.8919857740402222
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9993239641189575
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9977200627326965
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9996201992034912
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998520612716675
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9963739514350891
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9996442794799805
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9988837838172913
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9637083411216736
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.998357355594635
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9949758052825928
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.993981659412384
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9996429681777954
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9991244673728943
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9995007514953613
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998815059661865
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997063279151917
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9994853734970093
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9988542795181274
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998648166656494
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997716546058655
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9449917078018188
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9996236562728882
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9996299743652344
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9920324087142944
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9980677962303162
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9331687092781067
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998584985733032
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997692704200745
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.979634702205658
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.999808132648468
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.997199535369873
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998694658279419
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.7671674489974976
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9994812607765198
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9932541251182556
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9994908571243286
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9996521472930908
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9915139079093933
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9992610812187195
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9992586970329285
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9995744824409485
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998624324798584
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9978598952293396
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9996641874313354
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997742772102356
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998434782028198
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9996851682662964
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997562766075134
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9896146655082703
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998751878738403
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9994755387306213
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998434782028198
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9990161657333374
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9996210336685181
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998596906661987
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9975194334983826
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9988502264022827
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9130229949951172
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9987695813179016
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9994423985481262
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9983896017074585
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9680469632148743
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9954402446746826
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9799986481666565
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9996029734611511
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9931638836860657
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998422861099243
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998760223388672
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997546076774597
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998539686203003
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998161196708679
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9988223910331726
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9984159469604492
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9789448976516724
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998648166656494
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9956017732620239
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998335838317871
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9995163679122925
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997944235801697
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998747110366821
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998145699501038
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.999338686466217
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997908473014832
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998664855957031
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9117172956466675
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.7005175352096558
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9976981282234192
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9996776580810547
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9516746997833252
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998459815979004
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998739957809448
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9890022277832031
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9859955906867981
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998434782028198
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9996880292892456
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.996080219745636
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9868934154510498
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9800886511802673
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998834133148193
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997430443763733
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9986588954925537
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9903712868690491
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.5001038908958435
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997596144676208
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9959932565689087
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9525584578514099
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.8905302286148071
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9921750426292419
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9997617602348328
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9957253932952881
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9681140780448914
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9986279010772705
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998785257339478
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998434782028198
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998713731765747
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.998345136642456
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9991422891616821
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9363923072814941
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.6464357972145081
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998879432678223
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998695850372314
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998252987861633
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998455047607422
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9988699555397034
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9993270635604858
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9993857145309448
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9920499920845032
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998574256896973
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9434605836868286
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998302459716797
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.999488115310669
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9220662117004395
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9957565665245056
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9679973721504211
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9991105198860168
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9996318817138672
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9625153541564941
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9246748089790344
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998602867126465
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998750686645508
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9996812343597412
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9988542795181274
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998695850372314
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9657589197158813
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9991025924682617
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9977483153343201
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.999647855758667
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.998814582824707
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9953559637069702
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9996941089630127
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.999859094619751
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9983320832252502
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997326731681824
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.7917649745941162
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9990391731262207
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9574214816093445
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9994000196456909
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.994814395904541
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9986795783042908
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9869973659515381
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9995137453079224
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9976751208305359
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9893278479576111
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997487664222717
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9855007529258728
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998350143432617
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9998669624328613
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997355341911316
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9995790123939514
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9984219074249268
+    },
+    {
+        "label": "POSITIVE",
+        "score": 0.9997276663780212
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9949177503585815
+    }
+]
