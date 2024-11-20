@@ -1,5 +1,31 @@
 [
     {
+        "reviewId": "24e2265f-a5f3-427c-ab4d-b8a67690403f",
+        "userName": "\u00bf",
+        "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUGhkjC51hqu05VvRRGA83X9FSoXMqXhPzXytFy8vhDE_gElEq9",
+        "content": "useful",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.28.0",
+        "at": "2024-11-18 17:22:44",
+        "replyContent": null,
+        "repliedAt": null,
+        "appVersion": "2.28.0"
+    },
+    {
+        "reviewId": "083df7e0-6a67-415a-83de-c294e9e03f1c",
+        "userName": "RADITema Ema",
+        "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJVLwDJ82iVgoTklmZ5KjLHx6FEO6PAsQ-MYcMb9z8QUkr7yA=mo",
+        "content": "helpfull,,,",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.28.0",
+        "at": "2024-11-16 23:29:28",
+        "replyContent": null,
+        "repliedAt": null,
+        "appVersion": "2.28.0"
+    },
+    {
         "reviewId": "cd8cfa8c-b1d9-470b-b241-3b5196ecf1fd",
         "userName": "Rommillie h Vidal",
         "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocID8cl7-Wow9h7bHj_vOBK2DNXfHdEoi6F8CsJnHnKuqr8Y_w=mo",
@@ -135,7 +161,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJlUNZ34T8blJri93Aa0w1ybpg_w7x4Xrx6naKCWIQs2Vt4WQ=mo",
         "content": "the video call to identity verification is just too awkward. I couldn't hear the voice from speaker, so that I have to put my phone near my ear. however the staff said need to see my face during the process. No button on screen to change the audio output options. I need to change the position of my phone, and the camera just showing everywhere of my home. also there is no information to let me know if Mox will keep the footage of the video call. I feel my privacy is unprotected",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "2.26.1",
         "at": "2024-10-17 10:53:33",
         "replyContent": null,
@@ -717,7 +743,7 @@
     {
         "reviewId": "2e358ae1-96d5-4a3c-a334-1af569aafa9f",
         "userName": "L D",
-        "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJxAvK72nNBtiqrz76BVfjCUce9N4tr5_1ia0lOK9yJcpaYQX4=mo",
+        "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIFsH6YQqz_V2l-oMR2i4AtcBDoYgiCFKS0vFR9IkfJk4TS3Ag=mo",
         "content": "easy to used and very secured,highly recommended",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1370,7 +1396,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUzXHu39BghdexP_DrILBKBzha6RsXJ1tegDgcvA2dEnNMe3KPhQw",
         "content": "It truly feels like this virtual bank is trying to keep my money away from me! The UI has been freezing constantly ever since their security update, I get intrusive messages saying that \"screen mirroring is not allowed\" when this feature on my phone is disabled. The last time I made a large transfer MOX locked me out of my own account but they're more than happy to allow large transfers into your account. Ever so convenient for them! Appalling and lazy efforts have been made to fix this asap.",
         "score": 2,
-        "thumbsUpCount": 23,
+        "thumbsUpCount": 24,
         "reviewCreatedVersion": "2.5.0",
         "at": "2023-12-05 15:54:41",
         "replyContent": null,
@@ -3055,19 +3081,6 @@
         "appVersion": "1.5.6"
     },
     {
-        "reviewId": "2ee95a42-72b2-426a-a021-c25f8cbba6d8",
-        "userName": "Conor McKenna",
-        "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJt_Z6anEwusMoocNvRdl-udqQqXWw6WCTdiR6S_Qv5Q9ifPw=mo",
-        "content": "How refreshing to finally have a HK bank with an actual clean, user-friendly online banking interface, where everything can be done virtually.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.6.10",
-        "at": "2022-11-12 10:50:35",
-        "replyContent": null,
-        "repliedAt": null,
-        "appVersion": "1.6.10"
-    },
-    {
         "reviewId": "d433e7c2-577b-4eef-a8de-304047b3c3bd",
         "userName": "Amor Victa Quintos",
         "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWZ_Di1J7bUtCYbxuoBJBvn7JS4KC9rsDgQAXoofMv3J9GL4hmC",
@@ -4188,7 +4201,7 @@
     {
         "reviewId": "1c47950c-23cf-4535-8707-6f25eaf5c7fb",
         "userName": "Beverly mercado",
-        "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV_D-GzUOwz_P2QbmVomc-9HqKhGmBxKC_izOLzMycM4_UYa9uW8w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVUCuHJA6Px7iyTkrC611UBnk5NlixwftJ1tqShdUDRWtX8bE524g",
         "content": "great to be use,thanks",
         "score": 4,
         "thumbsUpCount": 1,
@@ -6097,19 +6110,6 @@
         "appVersion": "1.5.1"
     },
     {
-        "reviewId": "a7ad5d1f-a83a-4a50-a9e5-5d5bc2f811d7",
-        "userName": "Geraldine Buyan",
-        "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWL5VNddukvCIalb9wEdpZshHQs9ARk3DjJzNKD4qX85tsqU4oanw",
-        "content": "ok",
-        "score": 1,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": null,
-        "at": "2021-09-12 18:54:42",
-        "replyContent": null,
-        "repliedAt": null,
-        "appVersion": null
-    },
-    {
         "reviewId": "a5493ed3-9a31-41fc-8801-3500bd0b0311",
         "userName": "Bibi Fan",
         "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKS3ULnw969ddGDJKsSISxwBac9d_n8x_IUmHgmWTA0BelOBg=mo",
@@ -6323,7 +6323,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXblA6mYCI6fiPt5TCzc4GItThewbctpQeuxac_yvKJcqt1qb9S",
         "content": "Great app! I've been using this app for many months now. Service is great but FPS transactions to your bank is sometimes slow. Once I transferred money from my other bank to Mox and it took 3 hours for the transaction to complete.",
         "score": 5,
-        "thumbsUpCount": 31,
+        "thumbsUpCount": 32,
         "reviewCreatedVersion": "1.4.2",
         "at": "2021-07-01 13:54:24",
         "replyContent": "Hi Michael Lam, thanks so much for your lovely feedback, we\u2019re glad you are enjoying the Mox experience. We\u2019d also like to reach out to you regarding the FPS transactions mentioned, please call us at +852 2888 8228 or email to care@mox.com so we can investigate further.",
@@ -7750,7 +7750,7 @@
     {
         "reviewId": "56d04d27-d991-4860-af88-57ea940504de",
         "userName": "Sahil Rai",
-        "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVz2E-OugBHTPbQAaimdMMkf513gfHDX8bKhMFEBUbep-JvLlMSdg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXjv_gf0WsrqWs1umFEAfQeKwtYka8Bg1UnoxiZE_-o37wJbeJZOg",
         "content": "i really love this app it is one of the best virtual bank i have used and it has one of the best UI too and i loved the card too hope it continues on improving more and more it's just some time i would get some notification about transaction not being completed which could be bug but anyway it's fine",
         "score": 5,
         "thumbsUpCount": 3,
