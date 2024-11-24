@@ -1,6 +1,39 @@
 [
     {
         "reviewid": "",
+        "reviewdate": "2024-11-22 00:26:14",
+        "username": "Mishra1986",
+        "rating": 5,
+        "title": "Best Banking app",
+        "content": "Best app with great features",
+        "appversion": "",
+        "responsecontent": "",
+        "responsedate": ""
+    },
+    {
+        "reviewid": "",
+        "reviewdate": "2024-11-21 12:07:34",
+        "username": "Noviana sari",
+        "rating": 5,
+        "title": "Novi",
+        "content": "Good servis\u2764\ufe0f",
+        "appversion": "",
+        "responsecontent": "",
+        "responsedate": ""
+    },
+    {
+        "reviewid": "",
+        "reviewdate": "2024-11-21 08:59:11",
+        "username": "\u4e00\u500b\u5b57 \u6162",
+        "rating": 1,
+        "title": "\u5783\u573e Mox \u8cb7\u54a9\u90fd\u5514\u5f97",
+        "content": "\u760b\u72c2cut \u56de\u8d08\u5c3c\u5572\u90fd\u7b97\uff0c\u8cb7\u80a1\u7968\u6162\u5230\u5614\uff0c\u8cb7\u865b\u64ec\u8ca8\u5e63\u4fc2\u5481\u62d2\u7d55\u4ea4\u6613\uff0c\u8981\u7528\u4f62\u5605\u8a71\u7576\u8d85\u5e02\u5361\u5c31\u7b97\u5566\u5404\u4f4d",
+        "appversion": "",
+        "responsecontent": "",
+        "responsedate": ""
+    },
+    {
+        "reviewid": "",
         "reviewdate": "2024-11-17 11:38:06",
         "username": "Horace05",
         "rating": 1,
