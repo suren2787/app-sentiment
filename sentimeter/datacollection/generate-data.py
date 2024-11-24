@@ -9,10 +9,12 @@ import prepareplaystorereviews as playstore
 
 print('[INFO] generatedata - Started')
 print('[INFO] generatedata - Collecting Appstore reviews')
-normalized_reviews = appstore.normalized_reviews()
+normalized_reviews_as = appstore.normalized_reviews()
 
 print('[INFO] generatedata - Collecting Playstore reviews')
-normalized_reviews.append(playstore.normalized_reviews())
+normalized_reviews_ps = playstore.normalized_reviews()
+
+normalized_reviews = normalized_reviews_as + normalized_reviews_ps
 
 print('[INFO] generatedata - Saving File as json')
 #construct filename

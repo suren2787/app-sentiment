@@ -4,40 +4,41 @@ from pathlib import Path
 import os
 import pandas as pd
 
-play_store_reviews_file = '../../playstore-scraper/results/ps-reviews.json'
-play_store_sentimeter_file = 'results/ps-sentimeter.json'
+reviews_file = '../datacollection/results/reviews-normalized.json'
+sentimeter_file = 'results/reviews-sentimeter.json'
 
 summary=[]
 
-with open(play_store_sentimeter_file, 'r') as ifh:
+with open(sentimeter_file, 'r') as ifh:
     sentiments = json.load(ifh)
 
 
-with open(play_store_reviews_file, 'r') as ifh:
+with open(reviews_file, 'r') as ifh:
     reviews = json.load(ifh)
 
 
 
     for i,review in enumerate(reviews):
-        summary.append({'reviewId': review['reviewId'],
-        'userName':review['userName'],
-        'userImage':review['userImage'],
-        'content':review['content'],
-        'sentiment':sentiments[i]['label'],
-        'score':review['score'],
-        'thumbsUpCount':review['thumbsUpCount'],
-        'reviewCreatedVersion':review['reviewCreatedVersion'],
-        'at':review['at'],
-        'replyContent':review['replyContent'],
-        'repliedAt':review['repliedAt'],
-        'appVersion':review['appVersion'],
+        summary.append({
+            'reviewid':review['reviewid'],
+            'reviewdate':review['reviewdate'],
+            'username':review['username'],
+            'rating':review['rating'],
+            'title':'',
+            'content':review['content'],
+            'translatedcontent':review['translatedcontent'],
+            'sentiment':sentiments[i]['label'],
+            'appversion':review['appversion'],
+            'responsecontent':review['responsecontent'],
+            'responsedate':review['responsedate'],
+            'source':review['source']
         })
 
 #save Summary
 #construct filename
 time_str = time.strftime("%Y%m%d-%H%M%S")
-file_name_str = "results/ps-Summary.json"
-backup_filename_str="results/ps-Summary-backup-"+time_str+".json"
+file_name_str = "results/summary.json"
+backup_filename_str="results/summary-backup-"+time_str+".json"
 
 #check if file exists
 curr_file = Path(file_name_str)
@@ -53,8 +54,8 @@ print("Summary file saved successfully")
 
 # save as html
 time_str = time.strftime("%Y%m%d-%H%M%S")
-file_name_str = "results/ps-Summary.html"
-backup_filename_str="results/ps-Summary-backup-"+time_str+".html"
+file_name_str = "results/summary.html"
+backup_filename_str="results/summary-backup-"+time_str+".html"
 
 #check if file exists
 curr_file = Path(file_name_str)

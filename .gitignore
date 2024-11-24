@@ -1,7 +1,7 @@
 
-ps-summary-backup-*.html
-as-*-backup-*.json
-ps-*-backup-*.json
+*-backup-*.html
+*-backup-*.json
+*-backup-*.json
 
 __pycache__
 venv

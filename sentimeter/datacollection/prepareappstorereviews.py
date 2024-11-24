@@ -52,17 +52,6 @@ def normalized_reviews():
             })
     print('[INFO] datacollection - Normalization completed.')
     return normalized_reviews
-# #construct filename
-# time_str = time.strftime("%Y%m%d-%H%M%S")
-# file_name_str = "results/as-normalized.json"
-# backup_filename_str="results/as-normalized-backup-"+time_str+".json"
-
-# #check if file exists
-# fileops.renamefile(file_name_str,backup_filename_str)
-
-# # # Writing to sample.json
-# json_object = json.dumps(normalized_reviews, indent=4,default=str)
-# fileops.savefile(file_name_str,json_object)
 
 print('[INFO] datacollection - All steps completed')
 

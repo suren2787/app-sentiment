@@ -5,7 +5,7 @@ import os
 import pandas as pd
 import matplotlib.pyplot as plt
 
-play_store_summary_file = 'results/ps-summary.json'
+play_store_summary_file = 'results/summary.json'
 comments=[]
 
 #Open file and filter only comments
@@ -32,7 +32,7 @@ from wordcloud import WordCloud
 from wordcloud import STOPWORDS
   
 # Wordcloud with positive tweets
-positive_tweets = df['content'][df["sentiment"] == 'POSITIVE']
+positive_tweets = df['translatedcontent'][df["sentiment"] == 'POSITIVE']
 stop_words = ["https", "co", "RT"] + list(STOPWORDS)
 positive_wordcloud = WordCloud(max_font_size=50, max_words=100, background_color="white", stopwords = stop_words).generate(str(positive_tweets))
 plt.figure()
@@ -42,7 +42,7 @@ plt.axis("off")
 plt.savefig('results/diagrams/positivecomments')
  
 # Wordcloud with negative tweets
-negative_tweets = df['content'][df["sentiment"] == 'NEGATIVE']
+negative_tweets = df['translatedcontent'][df["sentiment"] == 'NEGATIVE']
 stop_words = ["https", "co", "RT"] + list(STOPWORDS)
 negative_wordcloud = WordCloud(max_font_size=50, max_words=100, background_color="white", stopwords = stop_words).generate(str(negative_tweets))
 plt.figure()
