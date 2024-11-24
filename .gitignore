@@ -1,7 +1,5 @@
 
-*-backup-*.html
-*-backup-*.json
-*-backup-*.json
+*-backup-*.*
 
 __pycache__
 venv
