@@ -4,7 +4,7 @@ from pathlib import Path
 import os
 import pandas as pd
 
-play_store_reviews_file = '../../playstore-scraper/results/ps-reviews.json'
+play_store_reviews_file = '../../datacollection/results/as-normalized.json'
 comments=[]
 
 #Open file and filter only comments
