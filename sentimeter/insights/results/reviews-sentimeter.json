@@ -1,5 +1,13 @@
 [
     {
+        "label": "NEGATIVE",
+        "score": 0.9996891021728516
+    },
+    {
+        "label": "NEGATIVE",
+        "score": 0.9840065836906433
+    },
+    {
         "label": "POSITIVE",
         "score": 0.9998326301574707
     },
@@ -101,7 +109,7 @@
     },
     {
         "label": "NEGATIVE",
-        "score": 0.9722129106521606
+        "score": 0.963013768196106
     },
     {
         "label": "NEGATIVE",
@@ -149,7 +157,7 @@
     },
     {
         "label": "NEGATIVE",
-        "score": 0.9997887015342712
+        "score": 0.9997816681861877
     },
     {
         "label": "POSITIVE",
@@ -201,10 +209,6 @@
     },
     {
         "label": "NEGATIVE",
-        "score": 0.9828031063079834
-    },
-    {
-        "label": "NEGATIVE",
         "score": 0.9997170567512512
     },
     {
@@ -217,7 +221,7 @@
     },
     {
         "label": "NEGATIVE",
-        "score": 0.9861263632774353
+        "score": 0.9968125224113464
     },
     {
         "label": "NEGATIVE",
@@ -233,7 +237,7 @@
     },
     {
         "label": "NEGATIVE",
-        "score": 0.9947169423103333
+        "score": 0.9950213432312012
     },
     {
         "label": "NEGATIVE",
@@ -285,7 +289,7 @@
     },
     {
         "label": "NEGATIVE",
-        "score": 0.9997016787528992
+        "score": 0.9994688630104065
     },
     {
         "label": "POSITIVE",
@@ -329,7 +333,7 @@
     },
     {
         "label": "NEGATIVE",
-        "score": 0.9984694123268127
+        "score": 0.9978193044662476
     },
     {
         "label": "POSITIVE",
@@ -356,8 +360,8 @@
         "score": 0.9996180534362793
     },
     {
-        "label": "NEGATIVE",
-        "score": 0.9848735332489014
+        "label": "POSITIVE",
+        "score": 0.9970923662185669
     },
     {
         "label": "NEGATIVE",
@@ -401,7 +405,7 @@
     },
     {
         "label": "NEGATIVE",
-        "score": 0.9993601441383362
+        "score": 0.9995331764221191
     },
     {
         "label": "NEGATIVE",
@@ -469,7 +473,7 @@
     },
     {
         "label": "NEGATIVE",
-        "score": 0.998472273349762
+        "score": 0.9997503161430359
     },
     {
         "label": "NEGATIVE",
@@ -481,7 +485,7 @@
     },
     {
         "label": "NEGATIVE",
-        "score": 0.9997431635856628
+        "score": 0.9997569918632507
     },
     {
         "label": "NEGATIVE",
@@ -497,7 +501,7 @@
     },
     {
         "label": "NEGATIVE",
-        "score": 0.9963017702102661
+        "score": 0.9983667731285095
     },
     {
         "label": "POSITIVE",
@@ -605,7 +609,7 @@
     },
     {
         "label": "NEGATIVE",
-        "score": 0.987194836139679
+        "score": 0.9854958653450012
     },
     {
         "label": "NEGATIVE",
@@ -785,7 +789,7 @@
     },
     {
         "label": "NEGATIVE",
-        "score": 0.999643087387085
+        "score": 0.9996485710144043
     },
     {
         "label": "NEGATIVE",
@@ -1033,7 +1037,7 @@
     },
     {
         "label": "NEGATIVE",
-        "score": 0.9995051622390747
+        "score": 0.999525785446167
     },
     {
         "label": "NEGATIVE",
@@ -1044,8 +1048,8 @@
         "score": 0.9997988343238831
     },
     {
-        "label": "NEGATIVE",
-        "score": 0.6665307879447937
+        "label": "POSITIVE",
+        "score": 0.9941521286964417
     },
     {
         "label": "NEGATIVE",
@@ -1097,11 +1101,11 @@
     },
     {
         "label": "NEGATIVE",
-        "score": 0.9992724061012268
+        "score": 0.9991915822029114
     },
     {
         "label": "NEGATIVE",
-        "score": 0.996893048286438
+        "score": 0.9988736510276794
     },
     {
         "label": "POSITIVE",
@@ -1114,10 +1118,6 @@
     {
         "label": "NEGATIVE",
         "score": 0.9978452920913696
-    },
-    {
-        "label": "NEGATIVE",
-        "score": 0.9995604157447815
     },
     {
         "label": "POSITIVE",
@@ -1181,7 +1181,7 @@
     },
     {
         "label": "POSITIVE",
-        "score": 0.9944830536842346
+        "score": 0.9947202205657959
     },
     {
         "label": "NEGATIVE",
@@ -1273,7 +1273,7 @@
     },
     {
         "label": "NEGATIVE",
-        "score": 0.9987416863441467
+        "score": 0.999230146408081
     },
     {
         "label": "NEGATIVE",
@@ -1337,7 +1337,7 @@
     },
     {
         "label": "NEGATIVE",
-        "score": 0.8745348453521729
+        "score": 0.989038348197937
     },
     {
         "label": "POSITIVE",
@@ -1429,7 +1429,7 @@
     },
     {
         "label": "NEGATIVE",
-        "score": 0.9829471707344055
+        "score": 0.9833092093467712
     },
     {
         "label": "NEGATIVE",
@@ -1453,7 +1453,7 @@
     },
     {
         "label": "NEGATIVE",
-        "score": 0.9984397292137146
+        "score": 0.9983108043670654
     },
     {
         "label": "NEGATIVE",
@@ -1585,7 +1585,7 @@
     },
     {
         "label": "NEGATIVE",
-        "score": 0.9925329685211182
+        "score": 0.9962310194969177
     },
     {
         "label": "NEGATIVE",
@@ -1601,7 +1601,7 @@
     },
     {
         "label": "NEGATIVE",
-        "score": 0.9993600249290466
+        "score": 0.9992792010307312
     },
     {
         "label": "POSITIVE",
@@ -1948,6 +1948,10 @@
         "score": 0.9952019453048706
     },
     {
+        "label": "NEGATIVE",
+        "score": 0.9938973784446716
+    },
+    {
         "label": "POSITIVE",
         "score": 0.9997634291648865
     },
@@ -2033,7 +2037,7 @@
     },
     {
         "label": "NEGATIVE",
-        "score": 0.9984760880470276
+        "score": 0.9984706044197083
     },
     {
         "label": "POSITIVE",
@@ -2225,7 +2229,7 @@
     },
     {
         "label": "NEGATIVE",
-        "score": 0.9970389604568481
+        "score": 0.9930151700973511
     },
     {
         "label": "POSITIVE",
@@ -2617,7 +2621,7 @@
     },
     {
         "label": "NEGATIVE",
-        "score": 0.999606192111969
+        "score": 0.9993993043899536
     },
     {
         "label": "NEGATIVE",
@@ -3760,10 +3764,6 @@
         "score": 0.9958820343017578
     },
     {
-        "label": "POSITIVE",
-        "score": 0.9995635151863098
-    },
-    {
         "label": "NEGATIVE",
         "score": 0.9993852376937866
     },
@@ -4166,10 +4166,6 @@
     {
         "label": "POSITIVE",
         "score": 0.9988542795181274
-    },
-    {
-        "label": "POSITIVE",
-        "score": 0.9998648166656494
     },
     {
         "label": "POSITIVE",

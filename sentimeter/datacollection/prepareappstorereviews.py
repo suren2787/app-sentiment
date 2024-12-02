@@ -17,7 +17,7 @@ def normalized_reviews():
     for review in reviews:
             comments.append(review['review'])
 
-    print('[INFO] datacollection - Comments collected for translation. Translation in progress.')
+    print('[INFO] datacollection - Appstore Comments collected for translation. Translation in progress.')
     translatedcomments = langtranslate.translate(sourcelang="auto", targetlang="en", textarray=comments)
 
     print('[INFO] datacollection - Translation completed. Normalization in progress.')

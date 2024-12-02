@@ -20,7 +20,7 @@ def normalized_reviews():
     for review in reviews:
             comments.append(review['content'])
 
-    print('[INFO] datacollection - Comments collected for translation. Translation in progress.')
+    print('[INFO] datacollection - Playstore Comments collected for translation. Translation in progress.')
     translatedcomments = langtranslate.translate(sourcelang="auto", targetlang="en", textarray=comments)
 
     print('[INFO] datacollection - Translation completed. Normalization in progress.')
