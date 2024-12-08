@@ -28,34 +28,11 @@ Terrible app. One day, just stopped me from logging in with a "Something went wr
 31 Oct, 2024
 Mumtaz Fazal, CK
 
----------------------
-Summary
-Here’s a summary of the feedback regarding the Mox app, categorized for clarity:
-
-### **1. App Design and Usability**
-- **Confusing Interface:** Users find the app design confusing and unattractive, leading to frustration when navigating.
-- **User Experience Issues:** Complaints include the inability to view account balances without logging in every time, confusion with icon detection in new iOS updates, and awkwardness during the video call verification process.
-
-### **2. Technical Problems**
-- **Frequent Crashes:** Users report crashes and inability to access their accounts after updates. 
-- **Update Failures:** Specific reports of being unable to update the app and getting stuck, displaying error messages, and lacking functionality after updates.
-
-### **3. Customer Support and Communication**
-- **Poor Customer Support:** Users feel that in-app support is inadequate, citing slow response times, irrelevant answers, and dissatisfaction with the ability to continue conversations.
-- **Call Response Issues:** Difficulty reaching customer service via phone, with reports of long wait times and unanswered inquiries.
-
-### **4. Security and Trust Concerns**
-- **Card Locking Issues:** Users express frustration at sudden card locks without clear explanations, and feelings of insecurity regarding fraudulent transactions.
-- **Automatic Deductions:** Concerns over unauthorized automatic deductions when using credit cards linked to the app.
-
-### **5. Mixed Reviews**
-- **Positive Experiences:** Some users report a smooth and user-friendly experience, praising the app's functionality.
-- **General Discontent:** A significant number of reviews are negative, indicating widespread dissatisfaction with the app's performance and support.
-
-### **6. Privacy Concerns**
-- **Video Call Privacy Issues:** Users feel their privacy is at risk during identity verification video calls, with concerns over audio output options and potential recording of calls without consent.
-
----
-
-### **Conclusion**
-The feedback indicates a troubling pattern of issues surrounding the Mox app, including technical failures, poor customer service, and usability challenges. While there are some positive remarks, the majority of the feedback highlights significant dissatisfaction and concerns that need to be addressed by the developers and support team.
+--------------------------
+Users complain about the confusing and ugly design interface of the Mox app, hoping for increased visibility.
+Some users also express frustration with the inability to update and use the app after the latest update.
+Complaints include issues with the in-app support chat, delayed responses, and difficulties in communication.
+Users also criticize the bank for deducting money automatically without approval for credit card transactions.
+There are concerns about privacy during video call identity verification and the lack of information regarding video call footage retention.
+Some users report experiencing bugs in the app and false claims.
+Overall, users express dissatisfaction with the app's functionality and customer service, leading to a negative user experience.
