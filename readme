@@ -1,2 +1,5 @@
 .\venv\Scripts\activate
 deactivate
+
+Step1: py generate-data.py
+Step2: py senti.py
