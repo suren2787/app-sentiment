@@ -30,7 +30,7 @@ with open(reviews_file, 'r') as ifh:
 
         if(sentiment=='NEGATIVE' and reviewdate.year==current_year):                                                                      
             if(reviewdate.month==current_month):
-                comments_current = comments_Current + "\n" + text #comments.join(text)
+                comments_current = comments_current + "\n" + text #comments.join(text)
             if(reviewdate.month==current_month-1):
                 comments_current_1 = comments_current_1 + "\n" + text 
             if(reviewdate.month==current_month-2):
@@ -38,6 +38,12 @@ with open(reviews_file, 'r') as ifh:
 print('[INFO] summarization - Filtered comments. Sentiment analysis is in progress')
 #get summary of comments
 from transformers import pipeline
+
+classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli")
+categories = ["UI/UX", "Performance", "Bugs", "Feature Requests", "Customer Support"]
+category_result = classifier(comments_current_1, candidate_labels=categories)
+print("Category:", category_result['labels'][0])
+print("Category:", category_result)
 
 # summarizer = pipeline(task="summarization")
 # result = summarizer(comments_current_1)

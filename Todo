@@ -1,0 +1,7 @@
+UI page to 
+    check if the quota is present ()
+    get the appname, email
+    send confirmation that the request is received. Report will be sent when generated and available.
+API to get the request.
+API to send the confirmation email.
+API to send the report via email.
