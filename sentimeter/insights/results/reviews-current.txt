@@ -1,4 +1,5 @@
 
+作為虛擬銀行，顧客主要就是用app進行戶口操作，2月1日轉賬是app上無法馬上更新資料，導致我以為轉賬失敗，再次轉賬，雖然沒有造成經濟損失，但這種情況不是一次兩次了，望改進。
 I can never place an online order when in-app verification is required. Reported this in troubleshooting chat but the staff were totally unhelpful and unknowledgeable. What a waste of time.
 一update完就彈app
 Already almost a day my two Apple phones downloaded the Mox after can not turn on Android machine can
