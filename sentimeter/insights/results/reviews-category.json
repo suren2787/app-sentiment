@@ -1,0 +1,1652 @@
+[
+    {
+        "sequence": "EASY TO USE APP",
+        "labels": [
+            "UI/UX",
+            "OTHERS",
+            "Customer Support",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.6410598158836365,
+            0.1869630068540573,
+            0.08760279417037964,
+            0.08437437564134598
+        ]
+    },
+    {
+        "sequence": "\u4f5c\u70ba\u865b\u64ec\u9280\u884c\uff0c\u9867\u5ba2\u4e3b\u8981\u5c31\u662f\u7528app\u9032\u884c\u6236\u53e3\u64cd\u4f5c\uff0c2\u67081\u65e5\u8f49\u8cec\u662fapp\u4e0a\u7121\u6cd5\u99ac\u4e0a\u66f4\u65b0\u8cc7\u6599\uff0c\u5c0e\u81f4\u6211\u4ee5\u70ba\u8f49\u8cec\u5931\u6557\uff0c\u518d\u6b21\u8f49\u8cec\uff0c\u96d6\u7136\u6c92\u6709\u9020\u6210\u7d93\u6fdf\u640d\u5931\uff0c\u4f46\u9019\u7a2e\u60c5\u6cc1\u4e0d\u662f\u4e00\u6b21\u5169\u6b21\u4e86\uff0c\u671b\u6539\u9032\u3002",
+        "labels": [
+            "Customer Support",
+            "UI/UX",
+            "OTHERS",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.3738403022289276,
+            0.29423972964286804,
+            0.23943231999874115,
+            0.09248771518468857
+        ]
+    },
+    {
+        "sequence": "I can never place an online order when in-app verification is required. Reported this in troubleshooting chat but the staff were totally unhelpful and unknowledgeable. What a waste of time.",
+        "labels": [
+            "OTHERS",
+            "UI/UX",
+            "Customer Support",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.4341508746147156,
+            0.2655714154243469,
+            0.2430892437696457,
+            0.05718843638896942
+        ]
+    },
+    {
+        "sequence": "\u4e00update\u5b8c\u5c31\u5f48app",
+        "labels": [
+            "UI/UX",
+            "OTHERS",
+            "ENGINEERING",
+            "Customer Support"
+        ],
+        "scores": [
+            0.4412153363227844,
+            0.32005348801612854,
+            0.11992844939231873,
+            0.1188027560710907
+        ]
+    },
+    {
+        "sequence": "Already almost a day my two Apple phones downloaded the Mox after can not turn on Android machine can",
+        "labels": [
+            "OTHERS",
+            "UI/UX",
+            "Customer Support",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.34720683097839355,
+            0.2594466209411621,
+            0.2521708905696869,
+            0.14117564260959625
+        ]
+    },
+    {
+        "sequence": "One broth the app. immediately pop away ... tried to turn off the machine to turn on and can not ... Del app and then install back not me, how to make?",
+        "labels": [
+            "OTHERS",
+            "ENGINEERING",
+            "UI/UX",
+            "Customer Support"
+        ],
+        "scores": [
+            0.46651318669319153,
+            0.22177448868751526,
+            0.18574199080467224,
+            0.12597036361694336
+        ]
+    },
+    {
+        "sequence": "I can't open the Apps after Update!",
+        "labels": [
+            "UI/UX",
+            "OTHERS",
+            "ENGINEERING",
+            "Customer Support"
+        ],
+        "scores": [
+            0.4274877607822418,
+            0.2649572491645813,
+            0.21538500487804413,
+            0.09216990321874619
+        ]
+    },
+    {
+        "sequence": "Super unhelpful support, wasted an hour trying to get my account activated. Still not working, gosh\u2026.",
+        "labels": [
+            "Customer Support",
+            "OTHERS",
+            "UI/UX",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.7677114009857178,
+            0.13276240229606628,
+            0.0535871759057045,
+            0.04593900963664055
+        ]
+    },
+    {
+        "sequence": "My account has been locked for 1 week and unable to withdraw any money.\nWill close account after unlock",
+        "labels": [
+            "ENGINEERING",
+            "Customer Support",
+            "OTHERS",
+            "UI/UX"
+        ],
+        "scores": [
+            0.33371737599372864,
+            0.25620853900909424,
+            0.22085720300674438,
+            0.18921685218811035
+        ]
+    },
+    {
+        "sequence": "Poor design beauty. Ugly explosion. . Function I use as you Octopus. Please give me a simple balance every time. . The password is too troublesome. . . Also don't pay people with a commercial when paying people. . The card one card is chaotic. . .",
+        "labels": [
+            "OTHERS",
+            "UI/UX",
+            "ENGINEERING",
+            "Customer Support"
+        ],
+        "scores": [
+            0.45089003443717957,
+            0.35423189401626587,
+            0.10931364446878433,
+            0.08556446433067322
+        ]
+    },
+    {
+        "sequence": "So annoying\uff01",
+        "labels": [
+            "OTHERS",
+            "ENGINEERING",
+            "Customer Support",
+            "UI/UX"
+        ],
+        "scores": [
+            0.3435990512371063,
+            0.2355574071407318,
+            0.22755132615566254,
+            0.19329217076301575
+        ]
+    },
+    {
+        "sequence": "Selfie just won\u2019t work for identity verification and video call never be able to connect to customer service",
+        "labels": [
+            "Customer Support",
+            "OTHERS",
+            "UI/UX",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.7281273603439331,
+            0.1450965851545334,
+            0.07089127600193024,
+            0.05588478222489357
+        ]
+    },
+    {
+        "sequence": "This app is unstable and always broke down, your transactions and transfer may on hold due to their app stability. \n\nCS and technical support is not reliable, think twice before using their service",
+        "labels": [
+            "OTHERS",
+            "Customer Support",
+            "ENGINEERING",
+            "UI/UX"
+        ],
+        "scores": [
+            0.4087539613246918,
+            0.29872849583625793,
+            0.16468018293380737,
+            0.1278373748064041
+        ]
+    },
+    {
+        "sequence": "Keep asking to verify identity, need to do video call everytime i login, no customer support at all.",
+        "labels": [
+            "Customer Support",
+            "OTHERS",
+            "UI/UX",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.7859956622123718,
+            0.11471261084079742,
+            0.051866888999938965,
+            0.047424815595149994
+        ]
+    },
+    {
+        "sequence": "Junk eating shit mox\ud83e\udd2c\ud83d\udd2a",
+        "labels": [
+            "OTHERS",
+            "ENGINEERING",
+            "UI/UX",
+            "Customer Support"
+        ],
+        "scores": [
+            0.5488250851631165,
+            0.19370026886463165,
+            0.13661058247089386,
+            0.12086407840251923
+        ]
+    },
+    {
+        "sequence": "Several virtual banks are good, good value for money. I personally think Mox is the best. In banking, stock min charge is cheap. Perfect for my short speculation. \ud83d\ude02",
+        "labels": [
+            "OTHERS",
+            "UI/UX",
+            "Customer Support",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.5247835516929626,
+            0.20526869595050812,
+            0.1660485714673996,
+            0.10389920324087143
+        ]
+    },
+    {
+        "sequence": "Stop forced update soooo frequenty!\n\nUpdated 2 times within 7 days, updated once the app is so big, d data is how expensive you know, in the street to use the app can not be used! Poor \ud83d\udc4e\ud83c\udffb\ud83d\udc4e\ud83c\udffb\ud83d\udc4e\ud83c\udffb",
+        "labels": [
+            "ENGINEERING",
+            "OTHERS",
+            "Customer Support",
+            "UI/UX"
+        ],
+        "scores": [
+            0.6219056844711304,
+            0.1818302720785141,
+            0.1254267543554306,
+            0.07083737850189209
+        ]
+    },
+    {
+        "sequence": "Ive seen so many people break their phones over the face identification feature of this bank and I\u2019ve rarely seen it work",
+        "labels": [
+            "OTHERS",
+            "UI/UX",
+            "Customer Support",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.5508829951286316,
+            0.15350563824176788,
+            0.1517108976840973,
+            0.14390042424201965
+        ]
+    },
+    {
+        "sequence": "Cheating people, unilaterally terminated loans and looking for debt collection companies",
+        "labels": [
+            "OTHERS",
+            "ENGINEERING",
+            "UI/UX",
+            "Customer Support"
+        ],
+        "scores": [
+            0.35506147146224976,
+            0.30114057660102844,
+            0.2055170089006424,
+            0.13828100264072418
+        ]
+    },
+    {
+        "sequence": "\u5783\u573e\u9280\u884c",
+        "labels": [
+            "OTHERS",
+            "UI/UX",
+            "Customer Support",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.4852433502674103,
+            0.21646486222743988,
+            0.16945217549800873,
+            0.12883958220481873
+        ]
+    },
+    {
+        "sequence": "\u9080\u8acb\u78bc \uff1aEZ7AMM",
+        "labels": [
+            "OTHERS",
+            "UI/UX",
+            "Customer Support",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.4297560155391693,
+            0.22437416017055511,
+            0.1898505985736847,
+            0.15601927042007446
+        ]
+    },
+    {
+        "sequence": "Best app with great features",
+        "labels": [
+            "ENGINEERING",
+            "Customer Support",
+            "OTHERS",
+            "UI/UX"
+        ],
+        "scores": [
+            0.3124919831752777,
+            0.2401033341884613,
+            0.23619253933429718,
+            0.21121209859848022
+        ]
+    },
+    {
+        "sequence": "Good servis\u2764\ufe0f",
+        "labels": [
+            "Customer Support",
+            "OTHERS",
+            "UI/UX",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.508979082107544,
+            0.19108378887176514,
+            0.16096948087215424,
+            0.1389675736427307
+        ]
+    },
+    {
+        "sequence": "Crazy cut rebate Ni D is considered, buy stocks slow to vomit, buy virtual currencies are so refused transaction, to use it as a supermarket card even it",
+        "labels": [
+            "ENGINEERING",
+            "OTHERS",
+            "Customer Support",
+            "UI/UX"
+        ],
+        "scores": [
+            0.3818381726741791,
+            0.32627981901168823,
+            0.15867502987384796,
+            0.13320697844028473
+        ]
+    },
+    {
+        "sequence": "Often open the app to pop up the mandatory consent phone marketing\n\nOwn discounts do better, do not have to marketing have customers to the door idiot management",
+        "labels": [
+            "OTHERS",
+            "UI/UX",
+            "ENGINEERING",
+            "Customer Support"
+        ],
+        "scores": [
+            0.4938117563724518,
+            0.2794376015663147,
+            0.15303044021129608,
+            0.07372019439935684
+        ]
+    },
+    {
+        "sequence": "Fuck you are on 9, I have 250,000 I will put in you, eat shit, out of some garbage advantages",
+        "labels": [
+            "OTHERS",
+            "Customer Support",
+            "ENGINEERING",
+            "UI/UX"
+        ],
+        "scores": [
+            0.351015567779541,
+            0.2555951178073883,
+            0.23527301847934723,
+            0.15811628103256226
+        ]
+    },
+    {
+        "sequence": "\u6975\u5ea60\u4eba\u6027\u5316\u9280\u884c\ud83d\ude02\ud83d\ude02\u4e0d\u5efa\u8b70\u4f7f\u7528",
+        "labels": [
+            "OTHERS",
+            "UI/UX",
+            "Customer Support",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.4157336354255676,
+            0.2533283233642578,
+            0.20584873855113983,
+            0.12508928775787354
+        ]
+    },
+    {
+        "sequence": "Never tried to have a bank to go to private self-adjusted credit.. should be the bank's people have nothing to do",
+        "labels": [
+            "OTHERS",
+            "UI/UX",
+            "ENGINEERING",
+            "Customer Support"
+        ],
+        "scores": [
+            0.49021175503730774,
+            0.18421907722949982,
+            0.1729503571987152,
+            0.15261876583099365
+        ]
+    },
+    {
+        "sequence": "Fix pls",
+        "labels": [
+            "Customer Support",
+            "OTHERS",
+            "ENGINEERING",
+            "UI/UX"
+        ],
+        "scores": [
+            0.5103405714035034,
+            0.22845785319805145,
+            0.1341695785522461,
+            0.12703199684619904
+        ]
+    },
+    {
+        "sequence": "As in the title! It has happened many times!\nExplain the cause!\nIf I can't pass the bill to go to my other account, keep my account to do?",
+        "labels": [
+            "OTHERS",
+            "ENGINEERING",
+            "Customer Support",
+            "UI/UX"
+        ],
+        "scores": [
+            0.5813214182853699,
+            0.1742851287126541,
+            0.12902088463306427,
+            0.11537255346775055
+        ]
+    },
+    {
+        "sequence": "Could not update on 23/10 & got stuck!\nI cannot do anything now!",
+        "labels": [
+            "OTHERS",
+            "Customer Support",
+            "ENGINEERING",
+            "UI/UX"
+        ],
+        "scores": [
+            0.41858530044555664,
+            0.22263017296791077,
+            0.20604225993156433,
+            0.15274226665496826
+        ]
+    },
+    {
+        "sequence": "Please fix asap",
+        "labels": [
+            "Customer Support",
+            "OTHERS",
+            "UI/UX",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.4536721706390381,
+            0.25625500082969666,
+            0.17095300555229187,
+            0.11911983042955399
+        ]
+    },
+    {
+        "sequence": "Can\u2019t use after the latest update, please fix",
+        "labels": [
+            "OTHERS",
+            "UI/UX",
+            "Customer Support",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.3185358941555023,
+            0.25722578167915344,
+            0.2536146342754364,
+            0.17062363028526306
+        ]
+    },
+    {
+        "sequence": "\u4eca\u5929\u65e9\u4e0a\u4e00\u6253\u958bApp\u5c31\u770b\u5230\u6b63\u5728\u4e0b\u8f09Mox \u7a0b\u5f0f\n\u8acb\u7b49\u7b49\u6216\u7a0d\u5f8c\u518d\u91cd\u5553\u7a0b\u5f0f\u548c\u62b1\u6b49\uff0c\u6211\u5011\u767c\u73fe\u4e00\u4e9b\u554f\u984c\u8acb\u91cd\u5553\u7a0b\u5f0f\uff0c\u662f\u4ec0\u9ebc\u4e8b\u5462\uff1f",
+        "labels": [
+            "UI/UX",
+            "OTHERS",
+            "Customer Support",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.582898736000061,
+            0.2100265473127365,
+            0.12629078328609467,
+            0.080783911049366
+        ]
+    },
+    {
+        "sequence": "Cannot open the app after update.",
+        "labels": [
+            "UI/UX",
+            "OTHERS",
+            "ENGINEERING",
+            "Customer Support"
+        ],
+        "scores": [
+            0.34793075919151306,
+            0.2724141776561737,
+            0.2411932349205017,
+            0.13846179842948914
+        ]
+    },
+    {
+        "sequence": "dllm every time to use it update or not bothered",
+        "labels": [
+            "OTHERS",
+            "ENGINEERING",
+            "Customer Support",
+            "UI/UX"
+        ],
+        "scores": [
+            0.44759082794189453,
+            0.2373303323984146,
+            0.1708473116159439,
+            0.14423148334026337
+        ]
+    },
+    {
+        "sequence": "The in-app support chat is a chaos. Not address to the problem, but keep selling the thing I don\u2019t want. Delayed in reply to my inquiry, and end the conversation once I am not replying immediately. Such unfair! And I cannot continue the conversation once I come back.",
+        "labels": [
+            "Customer Support",
+            "ENGINEERING",
+            "UI/UX",
+            "OTHERS"
+        ],
+        "scores": [
+            0.6628329157829285,
+            0.14344823360443115,
+            0.12951356172561646,
+            0.06420526653528214
+        ]
+    },
+    {
+        "sequence": "fake9\u4eba \u53c8\u8a71\u6709refund \u7d50\u679c\u4e00\u76f4\u63a8\u6ce2\u4ed4\ud83d\ude05",
+        "labels": [
+            "OTHERS",
+            "Customer Support",
+            "UI/UX",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.42427876591682434,
+            0.2839184105396271,
+            0.18272927403450012,
+            0.10907351225614548
+        ]
+    },
+    {
+        "sequence": "You will lose more than you gain in this rubbish bank totally bad service and strict.",
+        "labels": [
+            "OTHERS",
+            "ENGINEERING",
+            "Customer Support",
+            "UI/UX"
+        ],
+        "scores": [
+            0.3224075734615326,
+            0.2661678194999695,
+            0.23319584131240845,
+            0.17822875082492828
+        ]
+    },
+    {
+        "sequence": "True garbage",
+        "labels": [
+            "OTHERS",
+            "Customer Support",
+            "ENGINEERING",
+            "UI/UX"
+        ],
+        "scores": [
+            0.36159905791282654,
+            0.23998472094535828,
+            0.21395181119441986,
+            0.18446438014507294
+        ]
+    },
+    {
+        "sequence": "Video calls will never be concerned about you, and no one answers the phone, but to force people to do so, not do it can not log in, very bad experience",
+        "labels": [
+            "UI/UX",
+            "OTHERS",
+            "Customer Support",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.43765339255332947,
+            0.33238962292671204,
+            0.12452198565006256,
+            0.10543502867221832
+        ]
+    },
+    {
+        "sequence": "hello I do not know what your company does suddenly cut me card, sd online text message and not reply to me, said what instant reply sister, phone I called at least four times 20 minutes can not hit your land customer service, completely unclear Why lock my card because I applied for a credit card? So you approve me again? What's wrong with me? I used it for so long, suddenly not suddenly I used, and I do not know what the situation and why, so dealt with the problem? It's really bad \ud83d\ude05\ud83d\ude05\ud83d\ude05 Before also introduced a friend to use your bank, it was so handling problems, dissatisfied I would not stop bothering! Please reply as soon as possible to email me, I have not tried to call once to call the need to call into, and no one customer service reply to me! The attitude of dealing with things is really bad",
+        "labels": [
+            "Customer Support",
+            "OTHERS",
+            "ENGINEERING",
+            "UI/UX"
+        ],
+        "scores": [
+            0.7719064950942993,
+            0.10210232436656952,
+            0.07563121616840363,
+            0.05035996064543724
+        ]
+    },
+    {
+        "sequence": "For those whom may download Mox, please be aware that to use credit card. It will deduct your money AUTOMATICALLY without any approval from the internet (i.e. Apple.com fm different country of yours)!\nNo trusting and unsecured credit card!!!\nIf u wanted, please just using the debit card and no information given on any other internet payment! If u use the CC, u will regret!! If u don\u2019t trust me, you could search \u201cMox Apple.com\u201d, you will be found what I am saying. Good Luck~",
+        "labels": [
+            "UI/UX",
+            "OTHERS",
+            "ENGINEERING",
+            "Customer Support"
+        ],
+        "scores": [
+            0.29773086309432983,
+            0.2908620238304138,
+            0.23612430691719055,
+            0.17528285086154938
+        ]
+    },
+    {
+        "sequence": "The upper corner icons cannot be sensed in new iOS version. Cannot click notification or the name of account, the developers of MOX bank apps, please upgrade and tackle this bug!",
+        "labels": [
+            "UI/UX",
+            "OTHERS",
+            "ENGINEERING",
+            "Customer Support"
+        ],
+        "scores": [
+            0.7033542990684509,
+            0.1260613352060318,
+            0.10076884180307388,
+            0.06981558352708817
+        ]
+    },
+    {
+        "sequence": "Some buttons too close to corner, hard to press, some info blocked by Dynamic Island",
+        "labels": [
+            "UI/UX",
+            "OTHERS",
+            "ENGINEERING",
+            "Customer Support"
+        ],
+        "scores": [
+            0.8714032769203186,
+            0.05051815137267113,
+            0.04266668111085892,
+            0.03541182354092598
+        ]
+    },
+    {
+        "sequence": "The monthly deposit offer, can be said to cut, ask customer service, just reply a word, ask you to see for yourself",
+        "labels": [
+            "Customer Support",
+            "OTHERS",
+            "UI/UX",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.66030353307724,
+            0.24922527372837067,
+            0.04615468531847,
+            0.044316552579402924
+        ]
+    },
+    {
+        "sequence": ", don't use it",
+        "labels": [
+            "OTHERS",
+            "UI/UX",
+            "Customer Support",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.6669728755950928,
+            0.12490341067314148,
+            0.11340466886758804,
+            0.0947190448641777
+        ]
+    },
+    {
+        "sequence": "Can\u2019t update and can\u2019t use the app",
+        "labels": [
+            "UI/UX",
+            "OTHERS",
+            "Customer Support",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.35095667839050293,
+            0.2509959042072296,
+            0.22710862755775452,
+            0.17093878984451294
+        ]
+    },
+    {
+        "sequence": "My father's account has questions, not knowing how to ask, I helped to ask, their service attitude is very bad, harsh, dog public eyes look low",
+        "labels": [
+            "OTHERS",
+            "Customer Support",
+            "ENGINEERING",
+            "UI/UX"
+        ],
+        "scores": [
+            0.3790377974510193,
+            0.3279900848865509,
+            0.15380650758743286,
+            0.13916568458080292
+        ]
+    },
+    {
+        "sequence": "Recently update disappeared fingerprint login function. Pls update asap",
+        "labels": [
+            "OTHERS",
+            "UI/UX",
+            "Customer Support",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.402284175157547,
+            0.35402992367744446,
+            0.13756944239139557,
+            0.106116384267807
+        ]
+    },
+    {
+        "sequence": "Mox is very easy to use and efficient \ud83d\udc4d",
+        "labels": [
+            "UI/UX",
+            "OTHERS",
+            "Customer Support",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.5637380480766296,
+            0.18635807931423187,
+            0.13356401026248932,
+            0.11633986234664917
+        ]
+    },
+    {
+        "sequence": "\u73fe\u5728\u591a\u4e86\u4e0d\u540c\u6d3b\u52d5\uff0c\u90fd\u503c\u5f97\u4e00\u8a66",
+        "labels": [
+            "OTHERS",
+            "UI/UX",
+            "Customer Support",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.3837035596370697,
+            0.2646774649620056,
+            0.21513870358467102,
+            0.13648031651973724
+        ]
+    },
+    {
+        "sequence": "MOX is so easy to use",
+        "labels": [
+            "UI/UX",
+            "Customer Support",
+            "ENGINEERING",
+            "OTHERS"
+        ],
+        "scores": [
+            0.5202004313468933,
+            0.2695494294166565,
+            0.130357563495636,
+            0.07989248633384705
+        ]
+    },
+    {
+        "sequence": "\u7533\u8acbdebit card \u63d0\u4ea4\u8cc7\u6599\u5169\u65e5\u90fd\u672a\u78ba\u8a8d",
+        "labels": [
+            "OTHERS",
+            "UI/UX",
+            "Customer Support",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.46995678544044495,
+            0.2236512303352356,
+            0.16544532775878906,
+            0.1409466713666916
+        ]
+    },
+    {
+        "sequence": "Rotten the bank finds the d garbage trust company to fool the customer cs forever mechanical answer",
+        "labels": [
+            "ENGINEERING",
+            "Customer Support",
+            "OTHERS",
+            "UI/UX"
+        ],
+        "scores": [
+            0.4090476632118225,
+            0.39022210240364075,
+            0.14960363507270813,
+            0.0511266253888607
+        ]
+    },
+    {
+        "sequence": "\u672c\u4f86\u60f3\u7533\u8acb\u5f35\u4f86\u7528\uff0cmox credit \u4e0a\u50b3\u591a\u6b21\u6587\u4ef6\u90fd\u4e0d\u80fd\u901a\u904e\u9a57\u8b49\uff0c\u63db\u4f86\u7684\u662f\u6642\u9593\u7684\u6d41\u5931\uff01\uff01\uff01",
+        "labels": [
+            "OTHERS",
+            "Customer Support",
+            "UI/UX",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.31771597266197205,
+            0.29635336995124817,
+            0.2601377069950104,
+            0.12579290568828583
+        ]
+    },
+    {
+        "sequence": "Frequently misleading consumers, we see the roads do not miss the small characters like sinister people",
+        "labels": [
+            "OTHERS",
+            "ENGINEERING",
+            "Customer Support",
+            "UI/UX"
+        ],
+        "scores": [
+            0.5565820932388306,
+            0.2773619294166565,
+            0.08976193517446518,
+            0.07629404217004776
+        ]
+    },
+    {
+        "sequence": "\u6bcf\u6b21\u767b\u5165\u90fd\u8981scan\u8eab\u4efd\u8b49\uff0c\u7c21\u76f4\u767d\u75f4",
+        "labels": [
+            "UI/UX",
+            "OTHERS",
+            "Customer Support",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.3230472207069397,
+            0.29240143299102783,
+            0.2522229552268982,
+            0.13232837617397308
+        ]
+    },
+    {
+        "sequence": "\u7528\u4e86\u5169\u5e74Za bank\u5f9e\u672a\u8a66\u904e\u9019\u6a23\u7684\u60c5\u6cc1\u3002\u3002\u3002\u9084\u662f\u7528\u8fd4ZA Bank\u6bd4\u8f03\u7a69\u5b9a\u3002",
+        "labels": [
+            "UI/UX",
+            "Customer Support",
+            "OTHERS",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.34409257769584656,
+            0.3040635883808136,
+            0.2088349461555481,
+            0.14300893247127533
+        ]
+    },
+    {
+        "sequence": "Very poor Customer service , extremely hard to reach them .No help !",
+        "labels": [
+            "Customer Support",
+            "OTHERS",
+            "ENGINEERING",
+            "UI/UX"
+        ],
+        "scores": [
+            0.5575711131095886,
+            0.2804321348667145,
+            0.09202112257480621,
+            0.06997571140527725
+        ]
+    },
+    {
+        "sequence": "Very crap, asked twice why your land trading platform did not respond\nJust respond to canned messages\nNo serious understanding of the situation and help\nTell me to try again\nBut the fact is that I use the other cards than\nOn your platform can not pay money without response",
+        "labels": [
+            "OTHERS",
+            "Customer Support",
+            "ENGINEERING",
+            "UI/UX"
+        ],
+        "scores": [
+            0.3761923313140869,
+            0.3035072982311249,
+            0.16902536153793335,
+            0.15127508342266083
+        ]
+    },
+    {
+        "sequence": "The App keeps crashing and I am unable to use it on my phone. I tried clearing cache and reinstalling 2 times. Please provide a solution because paying the credit card bills on time is important.",
+        "labels": [
+            "Customer Support",
+            "OTHERS",
+            "UI/UX",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.459595263004303,
+            0.42169249057769775,
+            0.08039617538452148,
+            0.03831609711050987
+        ]
+    },
+    {
+        "sequence": "it's almost impossible to find where in locating the second step to continue the activation process",
+        "labels": [
+            "OTHERS",
+            "Customer Support",
+            "UI/UX",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.4751906096935272,
+            0.24822956323623657,
+            0.1417803317308426,
+            0.13479949533939362
+        ]
+    },
+    {
+        "sequence": "The card broke down, not sent for a whole month, asked 3 times the address answered 3 times is not wrong to start sending. The interface is getting worse, turning a account has 1/4 screens in your garbage regularly ads blocking all, and no cancellation, the interest rate is almost the worst, what's wrong?",
+        "labels": [
+            "UI/UX",
+            "Customer Support",
+            "OTHERS",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.7799980640411377,
+            0.09239638596773148,
+            0.0660918653011322,
+            0.06151370331645012
+        ]
+    },
+    {
+        "sequence": "Apps is crashing",
+        "labels": [
+            "UI/UX",
+            "OTHERS",
+            "ENGINEERING",
+            "Customer Support"
+        ],
+        "scores": [
+            0.45144692063331604,
+            0.2854485809803009,
+            0.133561909198761,
+            0.12954261898994446
+        ]
+    },
+    {
+        "sequence": "good",
+        "labels": [
+            "OTHERS",
+            "Customer Support",
+            "UI/UX",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.3248414099216461,
+            0.27706512808799744,
+            0.20655350387096405,
+            0.1915399432182312
+        ]
+    },
+    {
+        "sequence": "Charge a 2% fee on some payments even though they're in HK$. Every purchase is a gamble, as I can't know in advance if the transaction is cross-border or not.",
+        "labels": [
+            "OTHERS",
+            "ENGINEERING",
+            "UI/UX",
+            "Customer Support"
+        ],
+        "scores": [
+            0.3431447744369507,
+            0.3208606243133545,
+            0.17862321436405182,
+            0.1573714166879654
+        ]
+    },
+    {
+        "sequence": "good",
+        "labels": [
+            "OTHERS",
+            "Customer Support",
+            "UI/UX",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.3248414099216461,
+            0.27706512808799744,
+            0.20655350387096405,
+            0.1915399432182312
+        ]
+    },
+    {
+        "sequence": "Good easy to use",
+        "labels": [
+            "UI/UX",
+            "OTHERS",
+            "Customer Support",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.32213258743286133,
+            0.2920110821723938,
+            0.21011103689670563,
+            0.17574526369571686
+        ]
+    },
+    {
+        "sequence": "App is pretty good and easy to use. Just hope that it can be more flexible on withdrawal and deposit through third-party services.",
+        "labels": [
+            "UI/UX",
+            "OTHERS",
+            "ENGINEERING",
+            "Customer Support"
+        ],
+        "scores": [
+            0.46279600262641907,
+            0.34611764550209045,
+            0.09603221714496613,
+            0.09505414962768555
+        ]
+    },
+    {
+        "sequence": "Secure and easy to use mobile banking app. Great!",
+        "labels": [
+            "OTHERS",
+            "UI/UX",
+            "ENGINEERING",
+            "Customer Support"
+        ],
+        "scores": [
+            0.42797085642814636,
+            0.38650980591773987,
+            0.10957963764667511,
+            0.07593971490859985
+        ]
+    },
+    {
+        "sequence": "Have payment options but you cannot scan pay. The card cannot incorporate into samsung pay so its not very useful.",
+        "labels": [
+            "UI/UX",
+            "OTHERS",
+            "ENGINEERING",
+            "Customer Support"
+        ],
+        "scores": [
+            0.48287731409072876,
+            0.2743411064147949,
+            0.1417713463306427,
+            0.10101018100976944
+        ]
+    },
+    {
+        "sequence": "Very good",
+        "labels": [
+            "OTHERS",
+            "Customer Support",
+            "UI/UX",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.30095136165618896,
+            0.28240007162094116,
+            0.2191901057958603,
+            0.1974584311246872
+        ]
+    },
+    {
+        "sequence": "terrible. Can't take selfie always says timeout",
+        "labels": [
+            "OTHERS",
+            "UI/UX",
+            "Customer Support",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.3694296181201935,
+            0.35080718994140625,
+            0.14267288148403168,
+            0.1370902955532074
+        ]
+    },
+    {
+        "sequence": "Make it globally for use",
+        "labels": [
+            "OTHERS",
+            "UI/UX",
+            "ENGINEERING",
+            "Customer Support"
+        ],
+        "scores": [
+            0.8429949879646301,
+            0.06961288303136826,
+            0.04464174807071686,
+            0.042750418186187744
+        ]
+    },
+    {
+        "sequence": "very convenience to use and fast transactions thank you mox \ud83d\udc9c\ud83d\ude4f\ud83c\udffc",
+        "labels": [
+            "UI/UX",
+            "OTHERS",
+            "ENGINEERING",
+            "Customer Support"
+        ],
+        "scores": [
+            0.5708850026130676,
+            0.22366800904273987,
+            0.14373444020748138,
+            0.06171249598264694
+        ]
+    },
+    {
+        "sequence": "good",
+        "labels": [
+            "OTHERS",
+            "Customer Support",
+            "UI/UX",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.3248414099216461,
+            0.27706512808799744,
+            0.20655350387096405,
+            0.1915399432182312
+        ]
+    },
+    {
+        "sequence": "The app is becoming slower and slower. Now there is a prompt to Close the app or Wait after the fingerprint login. And everything takes much longer than before. The prompt appears about every 10 seconds unless I choose to Close the app. This problem only occur recently.",
+        "labels": [
+            "UI/UX",
+            "OTHERS",
+            "ENGINEERING",
+            "Customer Support"
+        ],
+        "scores": [
+            0.38900718092918396,
+            0.35791468620300293,
+            0.1347414255142212,
+            0.1183367446064949
+        ]
+    },
+    {
+        "sequence": "Transaction keeps getting canceled with the same bs reason, and It will go through the second try. Keep telling me I or the merchant input information incorrectly even with physical card transactions. How do physical card input info incorrectly into the system??",
+        "labels": [
+            "OTHERS",
+            "Customer Support",
+            "ENGINEERING",
+            "UI/UX"
+        ],
+        "scores": [
+            0.5319364070892334,
+            0.2739870250225067,
+            0.1048663854598999,
+            0.08921018242835999
+        ]
+    },
+    {
+        "sequence": "The app needs optimising for nothing phones. Everytime I open the app to use fingerprint scanner the app tells me to either wait or close the app. I can wait, but it pops up every few seconds, which makes the whole experience just that little bit more annoying. Thanks Dev team. I do love the app otherwise.",
+        "labels": [
+            "UI/UX",
+            "OTHERS",
+            "ENGINEERING",
+            "Customer Support"
+        ],
+        "scores": [
+            0.3484812378883362,
+            0.3373645544052124,
+            0.25880199670791626,
+            0.055352166295051575
+        ]
+    },
+    {
+        "sequence": "useful",
+        "labels": [
+            "OTHERS",
+            "UI/UX",
+            "Customer Support",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.38554713129997253,
+            0.2227579802274704,
+            0.22235199809074402,
+            0.16934294998645782
+        ]
+    },
+    {
+        "sequence": "helpfull,,,",
+        "labels": [
+            "OTHERS",
+            "Customer Support",
+            "UI/UX",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.6151461601257324,
+            0.1821545511484146,
+            0.11124957352876663,
+            0.09144977480173111
+        ]
+    },
+    {
+        "sequence": "It very convenient thank you",
+        "labels": [
+            "UI/UX",
+            "OTHERS",
+            "Customer Support",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.41882580518722534,
+            0.24075248837471008,
+            0.23382076621055603,
+            0.10660094022750854
+        ]
+    },
+    {
+        "sequence": "Android 15 la, how did you upgrade your app",
+        "labels": [
+            "OTHERS",
+            "Customer Support",
+            "UI/UX",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.63885098695755,
+            0.13181708753108978,
+            0.12317293137311935,
+            0.1061590239405632
+        ]
+    },
+    {
+        "sequence": "unable to update the app despite no issues with connectivity or storage etc.",
+        "labels": [
+            "OTHERS",
+            "UI/UX",
+            "Customer Support",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.36518406867980957,
+            0.21990199387073517,
+            0.20811942219734192,
+            0.20679444074630737
+        ]
+    },
+    {
+        "sequence": "Rubbish. Poor technologies to recognize selfie and so stupid to require the customers to uninstall the app and start the whole application again. Give up this low tech \"virtual\" bank",
+        "labels": [
+            "OTHERS",
+            "ENGINEERING",
+            "UI/UX",
+            "Customer Support"
+        ],
+        "scores": [
+            0.5654581785202026,
+            0.16734157502651215,
+            0.1414281576871872,
+            0.12577204406261444
+        ]
+    },
+    {
+        "sequence": "requid users update i hate this if you don't have to spend three or two days to update once on the on9",
+        "labels": [
+            "OTHERS",
+            "UI/UX",
+            "ENGINEERING",
+            "Customer Support"
+        ],
+        "scores": [
+            0.7055137753486633,
+            0.10745096951723099,
+            0.09598645567893982,
+            0.09104883670806885
+        ]
+    },
+    {
+        "sequence": "good",
+        "labels": [
+            "OTHERS",
+            "Customer Support",
+            "UI/UX",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.3248414099216461,
+            0.27706512808799744,
+            0.20655350387096405,
+            0.1915399432182312
+        ]
+    },
+    {
+        "sequence": "Update again??",
+        "labels": [
+            "OTHERS",
+            "Customer Support",
+            "UI/UX",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.4132145941257477,
+            0.24995216727256775,
+            0.17059767246246338,
+            0.16623561084270477
+        ]
+    },
+    {
+        "sequence": "Frequent crashes. Today I cannot access my account at all.",
+        "labels": [
+            "OTHERS",
+            "ENGINEERING",
+            "UI/UX",
+            "Customer Support"
+        ],
+        "scores": [
+            0.32591545581817627,
+            0.2281242161989212,
+            0.22465912997722626,
+            0.22130118310451508
+        ]
+    },
+    {
+        "sequence": "Android 15, not able to open app while connecting Bluetooth device",
+        "labels": [
+            "OTHERS",
+            "UI/UX",
+            "ENGINEERING",
+            "Customer Support"
+        ],
+        "scores": [
+            0.4904797375202179,
+            0.2780380845069885,
+            0.11964976787567139,
+            0.1118324026465416
+        ]
+    },
+    {
+        "sequence": "App is user-friendly and works flawlessly. Definitely recommended!",
+        "labels": [
+            "UI/UX",
+            "OTHERS",
+            "ENGINEERING",
+            "Customer Support"
+        ],
+        "scores": [
+            0.8563615679740906,
+            0.0827171579003334,
+            0.030522430315613747,
+            0.030398903414607048
+        ]
+    },
+    {
+        "sequence": "the video call to identity verification is just too awkward. I couldn't hear the voice from speaker, so that I have to put my phone near my ear. however the staff said need to see my face during the process. No button on screen to change the audio output options. I need to change the position of my phone, and the camera just showing everywhere of my home. also there is no information to let me know if Mox will keep the footage of the video call. I feel my privacy is unprotected",
+        "labels": [
+            "OTHERS",
+            "UI/UX",
+            "Customer Support",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.4829406440258026,
+            0.33643320202827454,
+            0.09772611409425735,
+            0.08289999514818192
+        ]
+    },
+    {
+        "sequence": "There's a bug in the app, leading to false claims, but Mox denied it's their responsibility. Will never use them again.",
+        "labels": [
+            "OTHERS",
+            "ENGINEERING",
+            "Customer Support",
+            "UI/UX"
+        ],
+        "scores": [
+            0.3487323820590973,
+            0.2583760917186737,
+            0.24792473018169403,
+            0.14496681094169617
+        ]
+    },
+    {
+        "sequence": "Terrible app. One day, just stopped me from logging in with a \"Something went wrong\" issue. Upon calling for customer support, was dropped off after 15 minutes of waiting. There is no other way of reaching the team, as the email directs to the same number. Closing my account once this is resolved",
+        "labels": [
+            "Customer Support",
+            "OTHERS",
+            "UI/UX",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.6425951719284058,
+            0.17926713824272156,
+            0.10786142200231552,
+            0.07027631253004074
+        ]
+    },
+    {
+        "sequence": "Has anyone had trouble updating or installing the app?",
+        "labels": [
+            "OTHERS",
+            "Customer Support",
+            "UI/UX",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.4518333077430725,
+            0.25127139687538147,
+            0.15008923411369324,
+            0.1468060463666916
+        ]
+    },
+    {
+        "sequence": "31 Oct, 2024",
+        "labels": [
+            "OTHERS",
+            "Customer Support",
+            "UI/UX",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.5553478598594666,
+            0.15972959995269775,
+            0.15180499851703644,
+            0.13311751186847687
+        ]
+    },
+    {
+        "sequence": "\u06d4 , Ch",
+        "labels": [
+            "OTHERS",
+            "Customer Support",
+            "UI/UX",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.5446322560310364,
+            0.17887751758098602,
+            0.15507099032402039,
+            0.1214192807674408
+        ]
+    },
+    {
+        "sequence": "Apps required an update to check my account info, no update at all in Google play.",
+        "labels": [
+            "UI/UX",
+            "OTHERS",
+            "ENGINEERING",
+            "Customer Support"
+        ],
+        "scores": [
+            0.3401091694831848,
+            0.2891329526901245,
+            0.22216038405895233,
+            0.14859747886657715
+        ]
+    },
+    {
+        "sequence": "Good app easy to use",
+        "labels": [
+            "UI/UX",
+            "OTHERS",
+            "ENGINEERING",
+            "Customer Support"
+        ],
+        "scores": [
+            0.5186021327972412,
+            0.22671577334403992,
+            0.145721435546875,
+            0.10896068066358566
+        ]
+    },
+    {
+        "sequence": "its a great app helping me with my hard life and hard work.",
+        "labels": [
+            "UI/UX",
+            "OTHERS",
+            "ENGINEERING",
+            "Customer Support"
+        ],
+        "scores": [
+            0.44646546244621277,
+            0.25588539242744446,
+            0.16624560952186584,
+            0.13140352070331573
+        ]
+    },
+    {
+        "sequence": "\u5783\u573e\u53c8\u554f\u651e\u8eab\u4efd\u8b49\uff0c\u500b\u500b\u6708\u90fd\u651e\uff0c\u53c8\u5f71\u76f8\uff0c\u5f71LLM",
+        "labels": [
+            "OTHERS",
+            "Customer Support",
+            "UI/UX",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.4154801368713379,
+            0.24065180122852325,
+            0.2386288046836853,
+            0.10523930937051773
+        ]
+    },
+    {
+        "sequence": "excellent",
+        "labels": [
+            "OTHERS",
+            "Customer Support",
+            "ENGINEERING",
+            "UI/UX"
+        ],
+        "scores": [
+            0.3391464948654175,
+            0.2651228904724121,
+            0.2015349268913269,
+            0.1941956728696823
+        ]
+    },
+    {
+        "sequence": "very good \ud83d\udc4d",
+        "labels": [
+            "Customer Support",
+            "UI/UX",
+            "ENGINEERING",
+            "OTHERS"
+        ],
+        "scores": [
+            0.28645485639572144,
+            0.2745039165019989,
+            0.22745439410209656,
+            0.2115868479013443
+        ]
+    },
+    {
+        "sequence": "Fast, easy and reliable service.A++",
+        "labels": [
+            "Customer Support",
+            "OTHERS",
+            "UI/UX",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.35597097873687744,
+            0.3433225452899933,
+            0.17766597867012024,
+            0.12304046750068665
+        ]
+    },
+    {
+        "sequence": "Is anyone here already got a credit or loan on this app? Especially for Foreign client?!",
+        "labels": [
+            "OTHERS",
+            "UI/UX",
+            "ENGINEERING",
+            "Customer Support"
+        ],
+        "scores": [
+            0.6789461970329285,
+            0.10786911100149155,
+            0.1073395162820816,
+            0.10584516823291779
+        ]
+    },
+    {
+        "sequence": "Worst onboarding experience I've ever had with a bank. Documents provided are not sufficient without a proper explanation. Response from reaching out to help emails are tardy and unprofessional. 0 interpersonal communication skills, shockingly poor.",
+        "labels": [
+            "OTHERS",
+            "Customer Support",
+            "ENGINEERING",
+            "UI/UX"
+        ],
+        "scores": [
+            0.4996940493583679,
+            0.24154098331928253,
+            0.1592264324426651,
+            0.09953857958316803
+        ]
+    },
+    {
+        "sequence": "awesome",
+        "labels": [
+            "OTHERS",
+            "Customer Support",
+            "UI/UX",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.2966690957546234,
+            0.26625800132751465,
+            0.22336167097091675,
+            0.213711217045784
+        ]
+    },
+    {
+        "sequence": "Always closed app before im finish using so sad,n i need to rilog again n again",
+        "labels": [
+            "UI/UX",
+            "OTHERS",
+            "ENGINEERING",
+            "Customer Support"
+        ],
+        "scores": [
+            0.2842022478580475,
+            0.25492119789123535,
+            0.24196507036685944,
+            0.21891146898269653
+        ]
+    },
+    {
+        "sequence": "\u64cd\u4f5c\u7c21\u55ae\uff0c\u975e\u5e38\u65b9\u4fbf",
+        "labels": [
+            "OTHERS",
+            "UI/UX",
+            "Customer Support",
+            "ENGINEERING"
+        ],
+        "scores": [
+            0.3393292725086212,
+            0.24971382319927216,
+            0.23698654770851135,
+            0.17397040128707886
+        ]
+    }
+]

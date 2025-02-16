@@ -8,8 +8,8 @@ sys.path.append("../../")
 from modules.utility import fileops
 import csv
 
-reviews_file = '../datacollection/results/reviews-normalized.json'
-sentimeter_file = 'results/reviews-sentimeter.json'
+reviews_file = 'results/reviews-filtered.json'
+sentimeter_file = 'results/reviews-sentiments.json'
 
 summary=[]
 

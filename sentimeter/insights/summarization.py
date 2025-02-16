@@ -1,91 +1,166 @@
 import json
 import time
-from datetime import datetime
 from pathlib import Path
+from datetime import datetime,timedelta
 import os
 import pandas as pd
 import sys
 sys.path.append("../../")
 from modules.utility import fileops
+from collections import defaultdict
 
-print('[INFO] summarization - Start.')
-reviews_file = 'results/summary.json'
-comments_current=""
-comments_current_1=""
-comments_current_2=""
-current_month = datetime.now().month
-current_year = datetime.now().year
 
-comments_array=[]
-comments_array_1=[]
-comments_array_2=[]
+print('[INFO] SUMMARY ANALYSIS - Start.')
 
-print('[INFO] summarization - Loaded normalized reviews. Filtering comments from Json.')
-#Open file and filter only comments
+reviews_file = 'results/reviews-filtered.json'
+sentimeter_file = 'results/reviews-sentiments.json'
+category_file = 'results/reviews-category.json'
+summary=[]
+positive_comments_1=""
+negative_comments_1=""
+positive_comments_2=""
+negative_comments_2=""
+positive_comments_3=""
+negative_comments_3=""
+print(datetime.today().month)
+with open(sentimeter_file, 'r') as ifh:
+    sentiments = json.load(ifh)
+
 with open(reviews_file, 'r') as ifh:
     reviews = json.load(ifh)
 
-    for review in reviews:
-        text=review['translatedcontent']
-        reviewdate=datetime.strptime(review['reviewdate'],'%Y-%m-%d %H:%M:%S').date()
-        sentiment=review['sentiment']
-        if not isinstance(text, str):
-            text=''
+with open(category_file, 'r') as ifh:
+    categories = json.load(ifh)
 
-        if(sentiment=='NEGATIVE' and reviewdate.year==current_year):                                                                      
-            if(reviewdate.month==current_month):
-                comments_current = comments_current + "\n" + text #comments.join(text)
-                comments_array.append(text)
-            if(reviewdate.month==current_month-1):
-                comments_current_1 = comments_current_1 + "\n" + text 
-                comments_array_1.append(text)
-            if(reviewdate.month==current_month-2):
-                comments_current_2 = comments_current_2 + "\n" + text 
-                comments_array_2.append(text)
-print('[INFO] summarization - Filtered comments. Summary analysis is in progress')
-#get summary of comments
+    for i,review in enumerate(reviews):
+        summary.append({
+            'reviewid':review['reviewid'],
+            'reviewdate':review['reviewdate'],
+            'username':review['username'],
+            'rating':review['rating'],
+            'title':'',
+            'appversion':review['appversion'],
+            'responsecontent':review['responsecontent'],
+            'responsedate':review['responsedate'],
+            'source':review['source'],
+            'content':review['content'],
+            'translatedcontent':review['translatedcontent'],
+            'predictedsentiment':sentiments[i]['label'],
+            'predictedcategory':categories[i]['labels'][0]
+        })
+        reviewdate = datetime.strptime(review["reviewdate"], "%Y-%m-%d %H:%M:%S")
+        if(reviewdate.month == datetime.today().month):
+        
+            if sentiments[i]['label'] == "POSITIVE" :
+                positive_comments_1 = positive_comments_1 + "/n" + review['translatedcontent']
+            else :
+                negative_comments_1 = negative_comments_1 + "/n" + review['translatedcontent']
+        if(reviewdate.month == datetime.today().month-1):
+        
+            if sentiments[i]['label'] == "POSITIVE" :
+                positive_comments_2 = positive_comments_2 + "/n" + review['translatedcontent']
+            else :
+                negative_comments_2 = negative_comments_2 + "/n" + review['translatedcontent']
+        if(reviewdate.month == datetime.today().month-2):
+        
+            if sentiments[i]['label'] == "POSITIVE" :
+                positive_comments_3 = positive_comments_3 + "/n" + review['translatedcontent']
+            else :
+                negative_comments_3 = negative_comments_3 + "/n" + review['translatedcontent']
+
+
 from transformers import pipeline
+summarizer = pipeline("summarization", model="facebook/bart-large-cnn") 
 
-classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli")
-categories = ["UI/UX", "Unstable App", "Unfair Charges", "Slow", "Customer Service"]
-category_result = classifier(comments_array_1, candidate_labels=categories)
-# Print the results
-for i, result in enumerate(category_result):
-    print(f"Feedback: {comments_array_1[i]}")
-    print(f"Predicted Category: {result['labels'][0]} (Score: {result['scores'][0]:.2f})")
-    print()
 
-# summarizer = pipeline(task="summarization")
-# result = summarizer(comments_current_1)
-# result2 = summarizer(comments_current_2)
-# print("-------------------------------------------------")
-# print(comments_current_1)
-# print("-------------------------------------------------")
-# print(result)
-# print("-------------------------------------------------")
-# print(comments_current_2)
-# print("-------------------------------------------------")
-# print(result2)
-# print("-------------------------------------------------")
-# print('[INFO] summarization - sentiments analyzed. Saving File as json')
+positive_summary_text_1 = summarizer(
+                positive_comments_1,
+                max_length=100,
+                min_length=30,
+                do_sample=False
+            )[0]["summary_text"]
+negative_summary_text_1 = summarizer(
+                negative_comments_1,
+                max_length=100,
+                min_length=30,
+                do_sample=False
+            )[0]["summary_text"]
+positive_summary_text_2 = summarizer(
+                positive_comments_2,
+                max_length=100,
+                min_length=30,
+                do_sample=False
+            )[0]["summary_text"]
+negative_summary_text_2 = summarizer(
+                negative_comments_2,
+                max_length=100,
+                min_length=30,
+                do_sample=False
+            )[0]["summary_text"]
+
+positive_summary_text_3 = summarizer(
+                positive_comments_3,
+                max_length=100,
+                min_length=30,
+                do_sample=False
+            )[0]["summary_text"]
+negative_summary_text_3 = summarizer(
+                negative_comments_3,
+                max_length=100,
+                min_length=30,
+                do_sample=False
+            )[0]["summary_text"]
+
+print("comments:"+ positive_comments_1)
+print(positive_summary_text_1)
+
+print("---------------------------------------------------------------------")
+print("comments:"+ positive_comments_2)
+print(positive_summary_text_2)
+print("---------------------------------------------------------------------")
+print("comments:"+ positive_comments_3)
+print(positive_summary_text_3)
+print("---------------------------------------------------------------------")
+print("comments:"+ negative_comments_1)
+print(negative_summary_text_1)
+print("---------------------------------------------------------------------")
+print("comments:"+ negative_comments_2)
+print(negative_summary_text_2)
+print("---------------------------------------------------------------------")
+print("comments:"+ negative_comments_3)
+print(negative_summary_text_3)
+# def generate_summary(label, category_data):
+#     summary_text = []
+#     for comments in category_data.items():
+#         if comments:
+#             # Join comments into a single text for summarization
+#             combined_text = " ".join(comments)
+#             # Generate a summary for the category
+#             summary_text = summarizer(
+#                 combined_text,
+#                 max_length=100,
+#                 min_length=30,
+#                 do_sample=False
+#             )[0]["summary_text"]
+#             summary.append(f"**{category}**: {summary_text}")
+#     return "\n".join(summary)
+# # positive_summary = generate_summary("positive", results["positive"])
+# negative_summary = generate_summary("negative", results["negative"])
+
+# with open("executive_summary.md", "w") as f:
+#     f.write(executive_summary)
 
 #save sentiments
 #construct filename
 time_str = time.strftime("%Y%m%d-%H%M%S")
-file_name_str = "results/reviews-current.txt"
-backup_filename_str="results/reviews-current-backup-"+time_str+".txt"
-file_name_str_lastmonth = "results/reviews-current-1.txt"
-backup_filename_str_lastmonth="results/reviews-current-1-backup-"+time_str+".txt"
-file_name_str_lastbefore = "results/reviews-current-2.txt"
-backup_filename_str_lastbefore ="results/reviews-current-2-backup-"+time_str+".txt"
+file_name_str = "results/reviews-summary.json"
+backup_filename_str="results/reviews-summary-backup-"+time_str+".json"
 
 #check if file exists
 fileops.renamefile(file_name_str,backup_filename_str)
-fileops.renamefile(file_name_str_lastmonth,backup_filename_str_lastmonth)
-fileops.renamefile(file_name_str_lastbefore,backup_filename_str_lastbefore)
 
 # # Writing to sample.json
-fileops.savefile(file_name_str,comments_current)
-fileops.savefile(file_name_str_lastmonth,comments_current_1)
-fileops.savefile(file_name_str_lastbefore,comments_current_2)
-print('[INFO] summarization - All steps completed')
+json_object = json.dumps(summary, indent=4,default=str)
+fileops.savefile(file_name_str,json_object)
+
+print('[INFO] SUMMARY ANALYSIS - All steps completed')
