@@ -3,3 +3,5 @@ deactivate
 
 Step1: py generate-data.py
 Step2: py senti.py
+Step3: py report.py
+

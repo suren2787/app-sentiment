@@ -1,7 +1,8 @@
 UI page to 
     check if the quota is present ()
-    get the appname, email
+    get the appname, email. Persist in database.
     send confirmation that the request is received. Report will be sent when generated and available.
-API to get the request.
+API to get the request and Persist in database.
+Run as Job based on the Requests received.
 API to send the confirmation email.
 API to send the report via email.
